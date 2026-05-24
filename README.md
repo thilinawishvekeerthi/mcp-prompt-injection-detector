@@ -224,7 +224,6 @@ MCP Tool Description (raw text)
 
 Model weights, embeddings, and evaluation results are stored on Google Drive due to file size.
 
-> **[Access cache files on Google Drive](https://drive.google.com/drive/folders/15Ap8BslIrpjE7tSzyV1hotsYO693ZRyi?usp=sharing)**
 
 Set `PROJECT_DIR` in the master config cell to point to your Drive folder before running.
 
